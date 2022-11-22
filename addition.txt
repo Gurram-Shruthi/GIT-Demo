@@ -1,0 +1,5 @@
+class Operations{
+	int addition_func (int a, int b){
+		int c=a+b;
+	}
+}
